@@ -1,6 +1,9 @@
 # cloudflare-workers-uniproxy
 Universal Proxy based on Cloudflare Workers with pure GET request
 
+uniproxy解决订阅订阅链接被墙  cloudfare 
+
+
 ## Usage
 
 1. Simple HTTP GET:
